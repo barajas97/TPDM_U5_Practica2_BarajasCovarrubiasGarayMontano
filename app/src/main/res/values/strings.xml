@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TPDM_U5_Practica3_BarajasCovarrubiasGarayMontano</string>
+    <string-array name="edificios">
+        <item>Selecionar...</item>
+        <item>Áreas recreativas</item>
+        <item>Edificio A</item>
+        <item>Edificio AD</item>
+        <item>Edificio B</item>
+        <item>Edificio CB</item>
+        <item>Edificio CI</item>
+        <item>Edificio EE</item>
+        <item>Edificio F</item>
+        <item>Edificio G</item>
+        <item>Edificio H</item>
+        <item>Edificio J</item>
+        <item>Edificio K</item>
+        <item>Edificio L</item>
+        <item>Edificio LC</item>
+        <item>Edificio LICBI</item>
+        <item>Edificio M</item>
+        <item>Edificio N</item>
+        <item>Edificio P</item>
+        <item>Edificio Q</item>
+        <item>Edificio S</item>
+        <item>Edificio TA</item>
+        <item>Edificio UD</item>
+        <item>Edificio UVP</item>
+        <item>Edificio X</item>
+        <item>Postgrado</item>
+    </string-array>
+</resources>
