@@ -6,6 +6,7 @@
         <item>Edificio A</item>
         <item>Edificio AD</item>
         <item>Edificio B</item>
+        <item>Edificio B II</item>
         <item>Edificio CB</item>
         <item>Edificio CI</item>
         <item>Edificio EE</item>
@@ -17,6 +18,7 @@
         <item>Edificio L</item>
         <item>Edificio LC</item>
         <item>Edificio LICBI</item>
+        <item>Edificio LIIA</item>
         <item>Edificio M</item>
         <item>Edificio N</item>
         <item>Edificio P</item>
@@ -26,6 +28,5 @@
         <item>Edificio UD</item>
         <item>Edificio UVP</item>
         <item>Edificio X</item>
-        <item>Postgrado</item>
     </string-array>
 </resources>

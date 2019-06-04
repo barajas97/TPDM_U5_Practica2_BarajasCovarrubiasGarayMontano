@@ -17,19 +17,22 @@
             android:textAlignment="center"
             android:textColor="#000"
     />
-    <ImageView
-            android:id="@+id/imagenedificio"
-            android:layout_marginTop="20dp"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-    />
+
     <TextView
             android:id="@+id/descripcionedificio"
-            android:layout_marginTop="20dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColor="#000"
+            android:textColor="#B93002"
             android:textSize="20dp"
+            android:layout_marginTop="40dp"
     />
+
+    <ImageView
+            android:id="@+id/imagenedificio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center_vertical"
+    />
+
 </LinearLayout>
